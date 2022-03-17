@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.img{
+  width: 500px;
+  height: 500px;
+  border: solid 1px black;
+  border-radius: 50%;
+ 
+}
+.title{
+ 
+ margin-left:40%;
+ color:gold;
+ 
+  
+ 
+  
+}
+html{
+  background-color: black;
+}
+
